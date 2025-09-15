@@ -1,98 +1,87 @@
-Dice Game - README
+# 🎲 Dice Game
 
-A fun and interactive two-player dice game with a beautiful animated interface created by Fazil.
+A simple, interactive two-player dice game with an animated interface.  
 
-🎮 How to Play
-Visit the live game at: https://magnificent-cuchufli-fc2192.netlify.app/
+**Live Demo:** [Play Now](https://magnificent-cuchufli-fc2192.netlify.app/)  
 
-Click the "Refresh Me" button to roll the dice
+---
 
-The game will randomly generate values for both players
+## 📖 How to Play
+- Click **“Refresh Me”** to roll the dice.  
+- Both players get a random dice value.  
+- The higher value wins.  
+- If both dice match → it’s a **draw**.  
 
-The player with the higher dice value wins the round
+---
 
-In case of a tie, the round is considered a draw
+## 🚀 Features
+- 🎨 **Animated UI**: Gradient background with smooth transitions  
+- 🎲 **Interactive Dice**: 3D-style rolling effect  
+- 📱 **Responsive**: Works on desktop, tablet, and mobile  
+- 🏷️ **Player Indicators**: Clear labels for Player 1 and Player 2  
+- 🌐 **Live Deployment**: Hosted on Netlify  
 
-🚀 Features
-Beautiful Animated UI: Gradient background with smooth animations
+---
 
-Interactive Dice: 3D-style dice with rotation animations
+## 🛠️ Tech Stack
+- **HTML5** – structure  
+- **CSS3** – styling & animations  
+- **JavaScript** – game logic  
+- **Netlify** – hosting  
 
-Responsive Design: Works on desktop, tablet, and mobile devices
+---
 
-Visual Feedback: Hover effects and smooth transitions
-
-Player Indicators: Clear labels for Player 1 and Player 2
-
-Live Deployment: Always accessible online
-
-🛠️ Technologies Used
-HTML5: For the game structure
-
-CSS3: For styling and animations
-
-JavaScript: For game logic and interactivity
-
-Netlify: For hosting and deployment
-
-📁 File Structure
+## 📂 Project Structure
 dice-game/
-│
-├── index.html          # Main game file
-├── images/             # Dice images folder
-│   ├── dice1.png
-│   ├── dice2.png
-│   ├── dice3.png
-│   ├── dice4.png
-│   ├── dice5.png
-│   └── dice6.png
-├── styles.css          # Additional styles (if separate)
-└── script.js            # Game functionality
-🎨 Customization
-You can customize the game by:
+│── index.html # Main game file
+│── styles.css # Styles & animations
+│── script.js # Game logic
+│── images/ # Dice images
+│ ├── dice1.png
+│ ├── dice2.png
+│ ├── dice3.png
+│ ├── dice4.png
+│ ├── dice5.png
+│ └── dice6.png
 
-Changing the color scheme by modifying the CSS gradient values
 
-Adding your own dice images to the images folder (keep the same naming convention)
+---
 
-Adjusting animation speeds in the CSS transition and animation properties
+## 🎨 Customization
+- Change gradient colors in `styles.css`  
+- Replace dice images in `/images` (keep same filenames)  
+- Adjust animation timing in CSS  
 
-📱 Browser Compatibility
-This game works on all modern browsers including:
+---
 
-Chrome (recommended)
+## 🌍 Browser Support
+- Chrome ✅  
+- Firefox ✅  
+- Safari ✅  
+- Edge ✅  
 
-Firefox
+---
 
-Safari
+## 🤝 Contributing
+1. Fork the repo  
+2. Create a feature branch (`git checkout -b feature-name`)  
+3. Commit your changes (`git commit -m "Add feature"`)  
+4. Push to branch (`git push origin feature-name`)  
+5. Open a Pull Request  
 
-Edge
+---
 
-🌐 Live Deployment
-The game is permanently hosted on Netlify and accessible at:
-https://magnificent-cuchufli-fc2192.netlify.app/
+## 📄 License
+This project is open source under the **MIT License**.  
 
-🤝 Contributing
-Feel free to contribute to this project by:
+---
 
-Forking the repository
+## 🙏 Acknowledgments
+- Dice images from *The App Brewery*  
+- Google Fonts (Lobster & Indie Flower)  
+- Created by **Fazil**  
 
-Creating a feature branch
+---
 
-Committing your changes
-
-Submitting a pull request
-
-📄 License
-This project is open source and available under the MIT License.
-
-🙏 Acknowledgments
-Created by Fazil
-
-Dice images from The App Brewery
-
-Google Fonts for the Lobster and Indie Flower fonts
-
-📞 Support
-If you have any questions or issues, please contact fazilp908@gmail.com.
-
+## 📞 Support
+For questions or issues: **fazilp908@gmail.com**
