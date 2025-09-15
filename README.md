@@ -85,6 +85,3 @@ This project is open source under the **MIT License**.
 
 ## 📞 Support
 For questions or issues: **fazilp908@gmail.com**
-
-
-
