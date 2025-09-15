@@ -1,5 +1,4 @@
 Dice Game - README
-https://img.shields.io/badge/Game-Dice%2520Game-blue https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black
 
 A fun and interactive two-player dice game with a beautiful animated interface created by Fazil.
 
@@ -96,3 +95,4 @@ Google Fonts for the Lobster and Indie Flower fonts
 
 📞 Support
 If you have any questions or issues, please contact fazilp908@gmail.com.
+
