@@ -33,7 +33,7 @@ A simple, interactive two-player dice game with an animated interface.
 
 ## 📂 Project Structure
 
-```plaintext
+```
 dice-game/
 ├── index.html        # Main game file
 ├── styles.css        # Styles & animations
@@ -44,8 +44,7 @@ dice-game/
     ├── dice3.png
     ├── dice4.png
     ├── dice5.png
-    └── dice6.png```
-
+    └── dice6.png
 ---
 
 ## 🎨 Customization
@@ -86,5 +85,6 @@ This project is open source under the **MIT License**.
 
 ## 📞 Support
 For questions or issues: **fazilp908@gmail.com**
+
 
 
