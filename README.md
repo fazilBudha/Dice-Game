@@ -59,13 +59,11 @@ This project is open source under the **MIT License**.
 
 ---
 
-## 🙏 Acknowledgments
-- Dice images from *The App Brewery*  
-- Google Fonts (Lobster & Indie Flower)  
 - Created by **Fazil**  
 
 ---
 
 ## 📞 Support
 For questions or issues: **fazilp908@gmail.com**
+
 
