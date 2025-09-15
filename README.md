@@ -44,7 +44,7 @@ dice-game/
     ├── dice3.png
     ├── dice4.png
     ├── dice5.png
-    └── dice6.png
+    └── dice6.png```
 
 ---
 
@@ -86,4 +86,5 @@ This project is open source under the **MIT License**.
 
 ## 📞 Support
 For questions or issues: **fazilp908@gmail.com**
+
 
