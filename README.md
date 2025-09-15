@@ -30,23 +30,6 @@ A simple, interactive two-player dice game with an animated interface.
 - **Netlify** – hosting  
 
 ---
-
-## 📂 Project Structure
-
-```
-dice-game/
-├── index.html        # Main game file
-├── styles.css        # Styles & animations
-├── script.js         # Game logic
-└── images/           # Dice images
-    ├── dice1.png
-    ├── dice2.png
-    ├── dice3.png
-    ├── dice4.png
-    ├── dice5.png
-    └── dice6.png
----
-
 ## 🎨 Customization
 - Change gradient colors in `styles.css`  
 - Replace dice images in `/images` (keep same filenames)  
@@ -85,3 +68,4 @@ This project is open source under the **MIT License**.
 
 ## 📞 Support
 For questions or issues: **fazilp908@gmail.com**
+
